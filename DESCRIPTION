@@ -1,0 +1,18 @@
+Package: bsymbreg
+Type: Package
+Title: Estimation of the Bayesian Symbolic Regression
+Version: 0.1
+Imports: graphics, MASS, Rcpp, stats, utils, zoo
+LinkingTo: Rcpp, RcppArmadillo
+Date: 2021-04-19
+Authors@R: person("Krzysztof", "Drachal", role = c("aut","cre"), email="kdrachal@wne.uw.edu.pl", comment = "Faculty of Economic Sciences, University of Warsaw, Poland")
+Author: Krzysztof Drachal [aut, cre] (Faculty of Economic Sciences, University of Warsaw, Poland)
+Maintainer: Krzysztof Drachal <kdrachal@wne.uw.edu.pl>
+Description: Allows to perform the Bayesian symbolic regression.
+License: GPL-3
+LazyData: TRUE
+URL: https://CRAN.R-project.org/package=bsymbreg
+Note: Research funded by the Polish National Science Centre grant under
+        the contract number DEC-2018/31/B/HS4/02021.
+NeedsCompilation: yes
+Packaged: 2021-04-19 18:11:34 UTC; Krzysiek

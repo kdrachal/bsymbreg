@@ -1,0 +1,4 @@
+useDynLib(bsymbreg,.registration = TRUE)
+export("lbsymbreg","f.dma","f.tvp")
+import(Rcpp)
+import(utils,except=c(.DollarNames,prompt))
