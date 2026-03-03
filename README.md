@@ -10,7 +10,7 @@ The `bsymbreg` R package allows to perform the Bayesian symbolic regression as d
 
 The `bsymbreg` package requires the following packages: `graphics`, `MASS`, `Rcpp`, `RcppArmadillo`, `stats`, `utils`, `zoo`. They should be installed prior to the installation of the `bsymbreg` package. 
 
-The `bsymbreg` package can be installed from github:
+The `bsymbreg` package can be installed from GitHub:
 ``` r
 devtools::install_github("kdrachal/bsymbreg") 
 ```
